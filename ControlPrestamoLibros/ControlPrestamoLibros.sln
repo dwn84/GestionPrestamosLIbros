@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlPrestamoLibros", "ControlPrestamoLibros.csproj", "{B6818BB5-1B0C-419F-8580-85B6B2780175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6818BB5-1B0C-419F-8580-85B6B2780175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6818BB5-1B0C-419F-8580-85B6B2780175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6818BB5-1B0C-419F-8580-85B6B2780175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6818BB5-1B0C-419F-8580-85B6B2780175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BDA7C3-8C76-4DCF-9F57-B8E47F344DB3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\bin\Debug\ControlPrestamoLibros.exe.config
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\bin\Debug\ControlPrestamoLibros.exe
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\bin\Debug\ControlPrestamoLibros.pdb
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.csprojAssemblyReference.cache
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.Form1.resources
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.Properties.Resources.resources
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.csproj.GenerateResource.cache
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.exe
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.pdb
+C:\xampp\htdocs\servicios\GestionPrestamosLIbros\ControlPrestamoLibros\obj\Debug\ControlPrestamoLibros.frmPrestar.resources
